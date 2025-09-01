@@ -44,7 +44,18 @@ This robot is designed to follow a black line on a white surface using **infrare
 ---
 
 ## 📸 Images & Media
-*(Insert images of PCB layout, final build, and robot in action)*
+
+Schematic to Follow: 
+![IMG_2718.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/c4db09fd-0464-4a21-9c87-26163a7f7f2d/d5b2f9bb-ec5e-4332-865a-34c29b056a03/IMG_2718.jpg)
+
+Finished Arduino Line Follower Robot:
+
+<img width="1206" height="1594" alt="IMG_6292" src="https://github.com/user-attachments/assets/56ea3f7d-778b-4c90-b7ef-7037db9d4d41" />
+
+Bottom of Arduino Line Follower Robot:
+
+<img width="1206" height="1584" alt="IMG_6293" src="https://github.com/user-attachments/assets/f0ad483c-097a-4cd9-86c6-af24425baea4" />
+
 
 ---
 
