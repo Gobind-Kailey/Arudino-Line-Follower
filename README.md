@@ -19,6 +19,9 @@ This robot is designed to follow a black line on a white surface using **infrare
 ## 🛠️ Hardware Components
 - **Arduino Uno** – Main microcontroller.
 - **QRD1114 IR Sensors** – Detect line contrast.
+- Sensor:
+<img width="684" height="656" alt="image" src="https://github.com/user-attachments/assets/23d10141-60d0-456c-b4ec-c77ad3c8628f" />
+
 - **L298N Motor Driver** – Controls DC motors.
 - **DC Motors + Tires** – Provide movement.
 - **Custom PCB** – Handles sensor inputs and motor driver connections.
@@ -46,7 +49,7 @@ This robot is designed to follow a black line on a white surface using **infrare
 ## 📸 Images & Media
 
 Schematic to Follow: 
-![IMG_2718.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/c4db09fd-0464-4a21-9c87-26163a7f7f2d/d5b2f9bb-ec5e-4332-865a-34c29b056a03/IMG_2718.jpg)
+![IMG_2718 (1)](https://github.com/user-attachments/assets/7e4d9b7e-e028-48e1-a54d-c31e3b039684)
 
 Finished Arduino Line Follower Robot:
 
